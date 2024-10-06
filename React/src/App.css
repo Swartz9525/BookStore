@@ -1,0 +1,10 @@
+body {
+  background-color: #0a0747; /* Set the background color for the entire body */
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Set a default font for the app */
+}
+
+.container {
+  padding: 20px; /* Add some padding to the container */
+  color: white; /* Change text color to white for better contrast */
+}
